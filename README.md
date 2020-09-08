@@ -17,7 +17,6 @@
 </div>
 
 
-
 ## Overview 
 
  `lemons_test` is an example project  without annotations with 6 images in it. 
