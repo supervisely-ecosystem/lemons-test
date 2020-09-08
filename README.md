@@ -21,7 +21,7 @@
 
  `lemons_test` is an example project  without annotations with 6 images in it. 
 
-![](./readme_images/IMG_0748_pr.jpg)
+![](./readme_images/lemons_test_overview.jpg)
 
 ## Description 
 
