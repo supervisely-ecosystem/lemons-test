@@ -17,16 +17,15 @@
 </div>
 
 
-
 ## Overview 
 
- `lemons_test` is an example project with annotated lemons and kiwifruits, with 6 images in it. 
+ `lemons_test` is an example project  without annotations with 6 images in it. 
 
 ![](./readme_images/IMG_0748_pr.jpg)
 
 ## Description 
 
-`lemons_annotated` is a small demo dataset, perfect for flash testing of segmentation and detection models. It can be used to quickly train and test neural networks on a small amount of images.
+`lemons_test` is a small demo dataset, perfect for flash testing of segmentation and detection models. It can be used to test neural networks on a small amount of images.
 
 ## Download
 
@@ -34,15 +33,11 @@ Direct download is available [here](https://cloud.enterprise.deepsystems.io/s/P9
 
 ## Statistics
 
-Dataset consists of 6 images with a total of 26 annotated objects. 
-
-The table below displays statistics per class:
-
-![](./readme_images/stats.jpg)
+Dataset consists of 6 images without annotations. 
 
 ## Examples
 
-![](./readme_images/IMG_0748.png) ![](./readme_images/IMG_2084.png) ![](./readme_images/IMG_4451.png) 
+![](./project/ds1/img/IMG_0315.jpeg) ![](./project/ds1/img/IMG_0813.jpeg) ![](./project/ds1/img/IMG_8454.jpeg) 
 
 ## How To Import
 
