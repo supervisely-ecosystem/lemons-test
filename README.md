@@ -1,15 +1,3 @@
-TODO:
-
-Example test project without annotations. 
-
-computer-vision 
-
-deep-learning 
-
-images 
-
-data
-
 <div align="center"> 
 
 ![](https://i.imgur.com/UdBujFN.png) 
@@ -29,6 +17,7 @@ data
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
+[![](https://img.shields.io/github/v/release/supervisely-ecosystem/lemons-test)](https://github.com/supervisely-ecosystem/lemons-test)
 
 </div>
 
