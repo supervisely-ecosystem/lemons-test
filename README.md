@@ -1,19 +1,23 @@
-
 <div align="center"> 
 
-![icon](./readme_images/icon.jpg) 
+![](https://i.imgur.com/UdBujFN.png) 
 
- # Lemons Test  
+![](https://i.imgur.com/46jWAnc.jpg) 
+
+ # Lemons Annotated  
 
 <p align="center">
 
-  <a href="#overview">Overview</a> |
-  <a href="#description">Description</a> |
-  <a href="#download">Download</a> |
-  <a href="#statistics">Statistics</a> |
-  <a href="#examples">Examples</a> |
+  <a href="#overview">Overview</a> •
+  <a href="#description">Description</a> •
+  <a href="#download">Download</a> •
+  <a href="#statistics">Statistics</a> •
+  <a href="#examples">Examples</a> •
   <a href="#how-to-import">How to Import</a> 
 </p>
+
+[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
+
 </div>
 
 
@@ -21,7 +25,7 @@
 
  `lemons_test` is an example project  without annotations with 6 images in it. 
 
-![](./readme_images/lemons_test_overview.jpg)
+![](https://i.imgur.com/xso40lp.jpg)
 
 ## Description 
 
@@ -29,11 +33,11 @@
 
 ## Download
 
-Direct download is available [here](https://cloud.enterprise.deepsystems.io/s/P9AlIyasKXshiZD/download).
+Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/P9AlIyasKXshiZD/download) (1,14 MB).
 
 ## Statistics
 
-Dataset consists of 6 images without annotations. 
+Project contains 1 dataset with 6 images in it, without annotations. 
 
 ## Examples
 
