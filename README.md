@@ -1,9 +1,13 @@
 TODO:
+
 Example test project without annotations. 
 
 computer-vision 
+
 deep-learning 
+
 images 
+
 data
 
 <div align="center"> 
