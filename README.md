@@ -53,7 +53,7 @@ Project contains 1 dataset with 6 images in it, without annotations.
 
 ## Examples
 
-![](./project/ds1/img/IMG_0315.jpeg) ![](./project/ds1/img/IMG_0813.jpeg) ![](./project/ds1/img/IMG_8454.jpeg) 
+![](./project/ds1/img/IMG_0315.jpeg) ![](./project/ds1/img/IMG_0813.jpeg) 
 
 ## How To Import
 
