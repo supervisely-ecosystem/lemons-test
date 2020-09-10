@@ -1,0 +1,12 @@
+{
+  "name": "Lemons (Test)",
+  "description": "Sample images project without labels",
+  "type": "project",
+  "categories": [
+    "labeled data",
+    "semantic segmentation",
+    "images"
+  ],
+  "icon": "https://i.imgur.com/Q4XWTU0.png",
+  "icon_cover": true
+}
