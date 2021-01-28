@@ -19,8 +19,7 @@
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/lemons-test)
 
-[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/country-roads&counter=views&label=views)](https://supervise.ly)
-
+[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/country-roads&counter=views&label=views)](https://supervise.ly) 
 ![downloads](https://img.shields.io/github/downloads/supervisely-ecosystem/lemons-test/total)
 
 </div>
