@@ -21,6 +21,7 @@
 
 [![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/country-roads&counter=views&label=views)](https://supervise.ly) 
 ![downloads](https://img.shields.io/github/downloads/supervisely-ecosystem/lemons-test/total)
+![downloads](https://img.shields.io/github/downloads/supervisely-ecosystem/lemons-test/latest/total)
 
 </div>
 
