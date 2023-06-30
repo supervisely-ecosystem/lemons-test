@@ -1,8 +1,8 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
+<img src="media/eco.png" width="250" /> <br>
 
-<img src="https://i.imgur.com/tGwMSOA.png" width="100"/> 
+<img src="media/icon.png" width="100"/> 
 
 # Lemons Test  
 
@@ -28,7 +28,7 @@
 
  `lemons_test` is an example project with 6 unlabeled images. 
 
-![](https://i.imgur.com/xso40lp.jpg)
+![](media/ex1.jpeg)
 
 ## Description 
 
@@ -44,7 +44,7 @@ Project contains 1 dataset with 6 images in it, without annotations.
 
 ## Examples
 
-![](./project/ds1/img/IMG_0315.jpeg) ![](./project/ds1/img/IMG_0813.jpeg) 
+![](media/ex1.jpeg) ![](media/ex2.jpeg) 
 
 ## How To Import
 
