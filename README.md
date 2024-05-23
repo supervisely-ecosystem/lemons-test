@@ -36,7 +36,7 @@
 
 ## Download
 
-Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/P9AlIyasKXshiZD/download) (1,14 MB).
+Direct download: [tar archive](https://github.com/supervisely-ecosystem/lemons-test/releases/download/v0.9.0/project.zip) (1,14 MB).
 
 ## Statistics
 
